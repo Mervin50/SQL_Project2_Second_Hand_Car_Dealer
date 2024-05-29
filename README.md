@@ -1,5 +1,8 @@
 # SQL Project2 : Second Hand Car Dealer
 
+Introduction : I selected this data to get insights of second hand car business.
+
+
 <p align="center">
   <img src="https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/cb2124ba-5197-4b2a-ae99-93b8f013db06" alt="lung-cancer image">
 </p>
