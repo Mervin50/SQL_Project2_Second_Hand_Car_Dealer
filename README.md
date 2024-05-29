@@ -1,5 +1,10 @@
 # SQL Project2 : Second Hand Car Dealer
 
+<p align="center">
+  <img src="https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/cb2124ba-5197-4b2a-ae99-93b8f013db06" alt="lung-cancer image">
+</p>
+
+
 1. Selecting our database.
 
 ![test1](https://github.com/Mervin50/SQL_Project2_Second_Hand_Car_Dealer/assets/167336864/81e396e0-e83f-405f-8016-25891c01af34)
